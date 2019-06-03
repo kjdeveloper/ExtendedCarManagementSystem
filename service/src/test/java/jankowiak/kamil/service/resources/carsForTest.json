@@ -1,0 +1,66 @@
+[
+  {
+    "model": "HONDA",
+    "price": 120000,
+    "color": "WHITE",
+    "mileage": 25,
+    "components": [
+      "ALLOY WHEEL",
+      "AIR CONDITIONING"
+    ]
+  },
+  {
+    "model": "HONDA",
+    "price": 230000,
+    "color": "SILVER",
+    "mileage": 250,
+    "components": [
+      "RADIO",
+      "PARKING ASSISTANT"
+    ]
+  },
+  {
+    "model": "AUDI",
+    "price": 220000,
+    "color": "GOLD",
+    "mileage": 45,
+    "components": [
+      "PIONEER SYSTEM SOUND",
+      "AUTOMATIC TRANSMISSION",
+      "AIR CONDITIONING"
+    ]
+  },
+  {
+    "model": "BMW",
+    "price": 150000,
+    "color": "BLACK",
+    "mileage": 120,
+    "components": [
+      "ABS",
+      "ALLOY WHEEL",
+      "GPS"
+    ]
+  },
+  {
+    "model": "SKODA",
+    "price": 560000,
+    "color": "BLUE",
+    "mileage": 450,
+    "components": [
+      "ABS",
+      "ALLOY WHEEL",
+      "AIR CONDITIONING"
+    ]
+  },
+  {
+    "model": "MAZDA",
+    "price": 60000,
+    "color": "RED",
+    "mileage": 800,
+    "components": [
+      "ELECTRIC MIRRORS",
+      "CRUISE CONTROL",
+      "AIR CONDITIONING"
+    ]
+  }
+]

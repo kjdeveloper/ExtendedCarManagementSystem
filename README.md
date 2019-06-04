@@ -1,17 +1,17 @@
-Extended car management system
+<h2>Extended car management system</h2>
 
 Project presents a list of cars on which I use streams to take out the necessary information.
 The project was made in order to gain practice in technologies learned during the course.
 The task has been divided into a module in accordance with the modular programming standards.
 The program was written in Java language version 11. To make everything work properly, You need to import the project from my profile on github.
 
-Used technologies:
+<h2>Used technologies</h2>:
 <p>•	Java11
 <p>•	Maven
 <p>•	JUnit5
 <p>•	Gson
 
-How to start:
+<h2>How to start:</h2>
 <p>•	Run git clone in terminal to download project
 <p>•	Go to terminal on the mainmenu level
 <p>•	Run mvn clean compile assembly:single
